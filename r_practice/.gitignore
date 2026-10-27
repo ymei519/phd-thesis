@@ -1,0 +1,7 @@
+*.pdf
+*.docx
+*.xlsx
+.DS_Store
+.Rhistory
+.RData
+.venv/
